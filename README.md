@@ -1,5 +1,5 @@
 **
-Energy Usage Analysis Project
+**Energy Usage Analysis Project**
 Overview
 This project aims to analyze energy usage data using Jupyter Notebook with pandas, seaborn, and matplotlib libraries. The analysis includes exploring the dataset, visualizing energy consumption trends, and deriving insights from the data.
 
@@ -40,4 +40,4 @@ Energy_Usage_Analysis/
 └── README.md**
 
 ScreenShot 
-![image](https://github.com/jatin251/Energy-Usage-Anayslis-/assets/96869090/182f6de9-f6f6-424a-9bac-8d717c7f03cc)
+![image](https://github.com/jatin251/Energy-Usage-Anayslis-/assets/96869090/7d25f235-38ec-471c-8588-0b4af54cd73c)
