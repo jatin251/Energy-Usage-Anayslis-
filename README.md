@@ -40,4 +40,5 @@ Energy_Usage_Analysis/
 └── README.md**
 
 ScreenShot 
-![image](https://github.com/jatin251/Energy-Usage-Anayslis-/assets/96869090/7d25f235-38ec-471c-8588-0b4af54cd73c)
+![Screenshot (20)](https://github.com/jatin251/Energy-Usage-Anayslis-/assets/96869090/3a29cb87-4725-4050-b372-a2dc798f62f1)
+
